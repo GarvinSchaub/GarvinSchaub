@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## Most used technologies
 ![C](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/c-logo.png)
 ![Csharp](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/csharp-logo.png)
