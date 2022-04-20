@@ -3,8 +3,8 @@
 
 ## Most used technologies
 ![C](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/c-logo.png)
-![Csharp](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/csharp-logo.png)
-![Python](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/python-logo.png)
+![Csharp](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/csharp-logo.png)
+![Python](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/python-logo.png)
 ![VueJS](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/vueJS-logo.png)
 ![HTML](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/html-logo.png)
 ![CSS](https://raw.githubusercontent.com/GarvinSchaub/GarvinSchaub/main/Logos/css-logo.png)
